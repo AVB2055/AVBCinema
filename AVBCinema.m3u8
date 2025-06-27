@@ -1196,6 +1196,8 @@ https://river-1.rutube.ru/hls-vod/9ossoL873cCFfc1PJkHUNw/1751124719/2078/0x5000c
 https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/YI8o3NtPqwzrNZeUNdd/ZX
 #EXTINF:-1 group-title="HD-SD",Индиана Джонс и Храм Судьбы (1984)(1920x1080)
 https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/YI8o3NtGlBRbgrEMK5p/ZX
+#EXTINF:-1 group-title="HD-SD",Бегущий по лезвию (1982)(1920x800)
+https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/YI8o3NtfPyMQ9cjPN-w/ZX
 #EXTINF:-1 group-title="HD-SD",Сияние (1980)(1920x1080)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/YI8o3NtgExn86yoKq5Z/ZX
 ------------------------------------------------------------------------------------------------------------------
@@ -1275,6 +1277,10 @@ https://kinoleha.net/load/polnoe-unichtozhenie?original
 https://kinoleha.net/load/ohota-na-santu?original
 #EXTINF:-1 group-title="HD-SD" tvg-id="simpleTVFakeEpgId",Реквием по мечте (2000) (1280x694)
 https://kinoleha.net/load/rekviem-po-mechte?original
+#EXTINF:-1 group-title="HD-SD" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="simpleTVFakeEpgId",Серебряные коньки (2020) (1920x804)
+http://video-cdn.simpletv.eu/video/SerebryanyeKonkiWEBDL1080p.mkv
+#EXTINF:-1 group-title="HD-SD" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId",Скайлайн 3 (2020) (1920x804)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtHfvNWXylmM9R/ZX
 #EXTINF:-1 group-title="HD-SD" tvg-id="simpleTVFakeEpgId",Мстители: Финал (2019) (1280x536)
 https://kinoleha.net/load/mstiteli-final?original
 #EXTINF:-1 group-title="HD-SD" tvg-id="simpleTVFakeEpgId",Люди Икс: Тёмный Феникс (2019) (1280x536)
@@ -1441,10 +1447,6 @@ https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/FP7MRNS7AnqtbHtojvK/ZX
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/FP7MRNSVWxSs5sXF7M0/ZX
 #EXTINF:-1 group-title="HD-SD",Гремлины (1984)(1280x720)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/FP7MRNSnftRq_Yd2-NQ/ZX
-#EXTINF:-1 group-title="HD-SD",Бегущий по лезвию (1982)(1920x800)
-https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/YI8o3NtfPyMQ9cjPN-w/ZX
 
-#EXTINF:-1 group-title="HD-SD" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="simpleTVFakeEpgId",Серебряные коньки (2020) (???)
-http://video-cdn.simpletv.eu/video/SerebryanyeKonkiWEBDL1080p.mkv
-#EXTINF:-1 group-title="HD-SD" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId",Скайлайн 3 (2020) (???)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtHfvNWXylmM9R/ZX
+
+
