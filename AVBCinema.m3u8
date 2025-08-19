@@ -93,8 +93,10 @@ https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/YI8o3NtqUWaup80gckX/ZX
 https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/YI8o3NtxxHIlUBQu63n/ZX
 
 
-
-
+#EXTINF:-1 group-title="HD",Открытое море. Смерть рядом (2025)
+https://cdn.cinemap.cc/movies/5f487c570a9d6aa4ca33d38353a36a02e36c5ca9/06f1c6a592974c125168b7b20a487974:2025081915/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 group-title="HD",Наблюдатель (2024)
+https://cdn.cinemap.cc/movies/c7a9484fd4f879cf58d6063b3ed4b2b20fbabbda/2c6b91003b6c3143b464fa774d3588bf:2025081915/1080.mp4:hls:manifest.m3u8
 #EXTINF:-1 group-title="HD",Плохие парни до конца (2024)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/FP7MRNSFG6CBqfwNiwz/ZX
 #EXTINF:-1 group-title="HD",Муфаса: Король Лев (2024)
@@ -385,6 +387,8 @@ https://kinoleha.net/load/500-dnej-leta?original
 https://kinoleha.net/load/monstry-protiv-prishelqcev?original
 #EXTINF:-1 group-title="HD",Район №9 (2009)
 https://kinoleha.net/load/rajon--9?original
+#EXTINF:-1 group-title="HD",Амелия (2009)
+https://cdn.cinemap.cc/movies/c296d4c00966095804242fa2ce095b1d574fa345/0fd9fa708b0bdffd5b672c0f22bf300a:2025081915/1080.mp4:hls:manifest.m3u8
 #EXTINF:-1 group-title="HD",Темный рыцарь (2008)
 https://kinoleha.net/load/temnyj-rycarq?original
 #EXTINF:-1 group-title="HD",Хэнкок (2008)
