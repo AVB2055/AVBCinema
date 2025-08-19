@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="FHD",Открытое море. Смерть рядом (2025)
-https://cdn.cinemap.cc/movies/5f487c570a9d6aa4ca33d38353a36a02e36c5ca9/06f1c6a592974c125168b7b20a487974:2025081915/1080.mp4:hls:manifest.m3u8
-#EXTINF:-1 group-title="FHD",Наблюдатель (2024)
-https://cdn.cinemap.cc/movies/c7a9484fd4f879cf58d6063b3ed4b2b20fbabbda/2c6b91003b6c3143b464fa774d3588bf:2025081915/1080.mp4:hls:manifest.m3u8
 #EXTINF:-1 group-title="FHD",Микки 17 (2025)
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3NtR3G_fdKJG7p8/ZX
 #EXTINF:-1 group-title="FHD",Белоснежка (2025)
@@ -5906,4 +5902,5 @@ http://s6.lomont.site/vod/films/the.simpsons.hdrezka.s36.e11_871033/hls/index.m3
 http://s6.lomont.site/vod/films/the.simpsons.s36e12.rezka.1080_873771/hls/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы Симпсоны",Серия 13 (сезон 36)
 http://s1.lomont.site/vod/films/the.simpsons.s36.special.rezka.1080_889140/hls/index.m3u8
+
 
