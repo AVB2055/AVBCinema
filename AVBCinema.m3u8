@@ -5720,8 +5720,6 @@ https://cdn.cinemap.cc/movies/6cda1f162ef7ca905aa620ea634e76a197a4b436/0dbcdf273
 #EXTINF:0,Эники-Беники (2025) HD
 #EXTGRP:XBET
 https://cdn.cinemap.cc/movies/3870645fe4b2551d1e0ec06b767d2a1508c65afe/d9be5236756fd7acd1ef70d4bdc18937:2025082412/1080.mp4:hls:manifest.m3u8
-#EXTINF:0,
-#EXTGRP:XBET
 #EXTINF:0,Покинутый мужчина (2025) HD
 #EXTGRP:XBET
 https://cdn.cinemap.cc/movies/364f910bb9b509e5f7ab1a4e9e2b71237ca81d00/ba0786b70d29535432807d8c0c315195:2025082412/1080.mp4:hls:manifest.m3u8
@@ -5779,7 +5777,7 @@ https://indigo.cdn.cinemap.cc/movies/9f5852324a00b7727da472ca354e01f0ad90170a/2c
 #EXTINF:0,Моя мама волшебница (2025) HD
 #EXTGRP:XBET
 https://cdn.cinemap.cc/movies/52a7c3e54f9093584f72d73fc8c869de97f4344d/e0f774ccb6b06276a6cc3a858279f5c1:2025082414/1080.mp4:hls:manifest.m3u8
-#EXTINF:0Айша (2024), HD
+#EXTINF:0,Айша (2024), HD
 #EXTGRP:XBET
 https://green.cdn.cinemap.cc/movies/555fc6cb6553b50d5044fcd3281da34861aaf8e1/e4eb42cfb094e3e3b6909386e2d1f792:2025082414/1080.mp4:hls:manifest.m3u8
 #EXTINF:0,Один, другой (2024) HD
@@ -5791,6 +5789,7 @@ https://red.cdn.cinemap.cc/movies/b76b3b088d6122a5d44a9f020cbbe3ce5155c990/5d9f9
 #EXTINF:0,Кем бы мы хотели быть (2024) HD
 #EXTGRP:XBET
 https://green.cdn.cinemap.cc/movies/80f0d596aefdfbe1428e85515067b8696b601498/c6d051069f832cfa3fcb89c11952daad:2025082414/1080.mp4:hls:manifest.m3u8
+
 
 
 
