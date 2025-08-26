@@ -1,32 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Галантный кинотеатр ",F1 (2025) 4K SDR
-https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/YI8o3NtvYJuavSpOQRj/ZX
-#EXTINF:-1 group-title="Галантный кинотеатр ",F1 (2025) 4K SDR
-https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSvYJuavSpOQRj/ZX
-#EXTINF:-1 group-title="Галантный кинотеатр ",Супермен (2025) 4K SDR
-https://vod.plvideo.ru/JLxVTeJD/KIxJeP4QQ0/YI8o3NtjuH4gvUtda33/ZX
-#EXTINF:-1 group-title="Галантный кинотеатр ",Супермен (2025) 4K SDR
+#EXTINF:-1 group-title="4K",Супермен (2025)
 https://vod.plvideo.ru/JLxVTeJD/KIxJeP4QQ0/5jktNnXjuH4gvUtda33/ZX
-#EXTINF:-1 group-title="Галантный кинотеатр ",Супермен (2025) 4K SDR
+#EXTINF:-1 group-title="4K",Супермен (2025) 
 https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSjuH4gvUtda33/ZX
-
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",2,5 GB Minecraft в кино (фильм, 2025)
-https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/5jktNnXU-Af3oh4r27x/ZX
-Коллайдер За Кадром Кино и ТВ
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",1,0 GB Minecraft в кино (фильм, 2025)
-https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/YI8o3NtU-Af3oh4r27x/ZX
-Коллайдер За Кадром Кино и ТВ
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",517 MB Minecraft в кино (фильм, 2025)
-https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/FP7MRNSU-Af3oh4r27x/ZX
-Коллайдер За Кадром Кино и ТВ
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",156 MB Minecraft в кино (фильм, 2025)
-https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/ZQ01hGwU-Af3oh4r27x/ZX
-Коллайдер За Кадром Кино и ТВ
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",4,1 GB Minecraft в кино (фильм, 2025)
-https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/zE2SWKSU-Af3oh4r27x/ZX
-Коллайдер За Кадром Кино и ТВ
-#EXTINF:-1 group-title="Коллайдер За Кадром Кино и ТВ",Minecraft в кино (фильм, 2025)
+#EXTINF:-1 group-title="4К",F1 (2025) 4K SDR
+https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSvYJuavSpOQRj/ZX
 #EXTINF:-1 group-title="4К",Источник вечной молодости (2025)
 https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSD2KZhOtL3m_A/ZX
 #EXTINF:-1 group-title="4К",Опустошение (2025)
@@ -5775,6 +5753,7 @@ https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/FP7MRNSK-_YjlNmElmu/ZX
 #EXTINF:0,Аргейл супер шпион (2024) HD
 #EXTGRP:Serial
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/FP7MRNSSi9pNsCTSqal/ZX
+
 
 
 
