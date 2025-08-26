@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="4К",Миссия невыполнима: Смертельная расплата (2023)
-https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/5jktNnXA8z8GXtcldca/ZX
-#EXTINF:-1 group-title="4К",Миссия невыполнима: Смертельная расплата (2023)
-https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKSA8z8GXtcldca/ZX
-#EXTINF:-1 group-title="4К",Нечестивая троица (2024)
-https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKSoVdVne0Ug_8a/ZX
-#EXTINF:-1 group-title="4К",Нечестивая троица (2024)
-https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/5jktNnXoVdVne0Ug_8a/ZX
 #EXTINF:-1 group-title="4К",Верни её из мёртвых (2025)
 https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKS9MITTS9J1L9E/ZX
 #EXTINF:-1 group-title="4К",Верни её из мёртвых (2025)
@@ -27,7 +19,7 @@ https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/5jktNnXks8G_d_o1GSe/ZX
 https://vod.plvideo.ru/JLxVTeJD/KIxJeP4QQ0/5jktNnXjuH4gvUtda33/ZX
 #EXTINF:-1 group-title="4К",Супермен (2025) 
 https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSjuH4gvUtda33/ZX
-#EXTINF:-1 group-title="4К",F1 (2025) 4K SDR
+#EXTINF:-1 group-title="4К",F1 (2025) 
 https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSvYJuavSpOQRj/ZX
 #EXTINF:-1 group-title="4К",Источник вечной молодости (2025)
 https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSD2KZhOtL3m_A/ZX
@@ -35,88 +27,95 @@ https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSD2KZhOtL3m_A/ZX
 https://vod.plvideo.ru/FbZEopwh/cXyXEGJ0A4/zE2SWKSCv665aZH0xas/ZX
 #EXTINF:-1 group-title="4К",Улыбка 2 (2024)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSKGQgTRzOd2mt/ZX
-#EXTINF:-1 group-title="4К",Скорость (1994)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS4Ory7A6w3u06/ZX
+#EXTINF:-1 group-title="4К",Нечестивая троица (2024)
+https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKSoVdVne0Ug_8a/ZX
+#EXTINF:-1 group-title="4К",Нечестивая троица (2024)
+https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/5jktNnXoVdVne0Ug_8a/ZX
 #EXTINF:-1 group-title="4К",Одинокие волки (2024)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3NtJ2UqZYWdxV0t/ZX
-#EXTINF:-1 group-title="4К",Хулиганы зеленой улицы (2005)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSlHCJoFxJpIVI/ZX
-#EXTINF:-1 group-title="4К",На гребне волны (1991)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSOETRlkKMSxLE/ZX
-#EXTINF:-1 group-title="4К",Адвокат дьявола (1997)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSHZFieZd4XciX/ZX
-#EXTINF:-1 group-title="4К",За пригоршню долларов (1964)
-https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSGmNib-8VvFmB/ZX
+#EXTINF:-1 group-title="4К",Миссия невыполнима: Смертельная расплата (2023)
+https://vod.plvideo.ru/FbZEopwh/KIxJeP4QQ0/5jktNnXA8z8GXtcldca/ZX
+#EXTINF:-1 group-title="4К",Миссия невыполнима: Смертельная расплата (2023)
+https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKSA8z8GXtcldca/ZX
 #EXTINF:-1 group-title="4К",Выстрел в пустоту (2017)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS7V4tUEhtCPP1/ZX
+#EXTINF:-1 group-title="4К",Безумный Макс: Дорога ярости (2015)
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS18Eo70e5EcvL/ZX
 #EXTINF:-1 group-title="4К",Рейд (2011)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSlmeC0kSUWFJi/ZX
 #EXTINF:-1 group-title="4К",Социальная сеть (2010)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSRvIWiyOfqzx3/ZX
-#EXTINF:-1 group-title="4К",Константин: Повелитель тьмы 60 FPS (2005)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSbbt_iOoMTlsY/ZX
-#EXTINF:-1 group-title="4К",Знакомьтесь Джо Блэк (1998)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSyNH0ayNPt0zQ/ZX
-#EXTINF:-1 group-title="4К",Игра (1997)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSYhhWV6watVka/ZX
-#EXTINF:-1 group-title="4К",Космическая одиссея 2001 (1968)
-https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSxFTFgJjywddp/ZX
-#EXTINF:-1 group-title="4К",Блэйд (1998)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
 #EXTINF:-1 group-title="4К",Начало (2010)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSaX1tL8iIM3HJ/ZX
-#EXTINF:-1 group-title="4К",Троя (2004)
-https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZfX1fMVKLph_/ZX
-#EXTINF:-1 group-title="4К",Шестое чувство (1999)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSxt6C7jv21bKl/ZX
-#EXTINF:-1 group-title="4К",Бэтмен: Начало (2005)
-https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSA5tv0T503q1s/ZX
-#EXTINF:-1 group-title="4К",Такси (1998)
-https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSHw0z6WMgWK1c/ZX
-#EXTINF:-1 group-title="4К",Такси 2 (2000)
-https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSGaMXkeJU_NPb/ZX
-#EXTINF:-1 group-title="4К",Такси 3 (2003)
-https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKScUxMveDTTzuK/ZX
-#EXTINF:-1 group-title="4К",Такси 4 (2007)
-https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjZnAtUL4Y5JT/ZX
-#EXTINF:-1 group-title="4К",Криминальное чтиво (1994)
-https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSpWacyXtvoCku/ZX
-#EXTINF:-1 group-title="4К",Рембо: Первая кровь (1982)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS2Uzj1uUoCv3q/ZX
-#EXTINF:-1 group-title="4К",Бешеные псы (1992)
-https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSlLW9nEMG4mt-/ZX
-#EXTINF:-1 group-title="4К",Американская история X (1998)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSVuQW70xk7Otj/ZX
-#EXTINF:-1 group-title="4К",Законопослушный Гражданин (2009)
-https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS5A1uUsGnUJfw/ZX
-#EXTINF:-1 group-title="4К",Безумный Макс: Дорога ярости (2015)
-https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS18Eo70e5EcvL/ZX
-#EXTINF:-1 group-title="4К",Не пойман — не вор (2006)
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSgjCWnaCZ1J4B/ZX
-#EXTINF:-1 group-title="4К",Аэроплан 2 (1982)
-https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS6ibiMgVhBjEh/ZX
 #EXTINF:-1 group-title="4К",Немыслимое (2010)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSJ3kF51j8vNRG/ZX
+#EXTINF:-1 group-title="4К",Законопослушный Гражданин (2009)
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS5A1uUsGnUJfw/ZX
+#EXTINF:-1 group-title="4К",Такси 4 (2007)
+https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjZnAtUL4Y5JT/ZX
+#EXTINF:-1 group-title="4К",Не пойман — не вор (2006)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSgjCWnaCZ1J4B/ZX
+#EXTINF:-1 group-title="4К",Хулиганы зеленой улицы (2005)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSlHCJoFxJpIVI/ZX
+#EXTINF:-1 group-title="4К",Константин: Повелитель тьмы 60 FPS (2005)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSbbt_iOoMTlsY/ZX
+#EXTINF:-1 group-title="4К",Бэтмен: Начало (2005)
+https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSA5tv0T503q1s/ZX
+#EXTINF:-1 group-title="4К",Гарри Поттер и узник Азкабана(2004)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtTbYuJipTKQg1/ZX
+#EXTINF:-1 group-title="4К",Троя (2004)
+https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZfX1fMVKLph_/ZX
+#EXTINF:-1 group-title="4К",Такси 3 (2003)
+https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKScUxMveDTTzuK/ZX
+#EXTINF:-1 group-title="4К",Форсаж (2001)
+https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS4YZUhfTLByke/ZX
+#EXTINF:-1 group-title="4К",Такси 2 (2000)
+https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSGaMXkeJU_NPb/ZX
+#EXTINF:-1 group-title="4К",Шестое чувство (1999)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSxt6C7jv21bKl/ZX
+#EXTINF:-1 group-title="4К",Знакомьтесь Джо Блэк (1998)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSyNH0ayNPt0zQ/ZX
+#EXTINF:-1 group-title="4К",Блэйд (1998)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
+#EXTINF:-1 group-title="4К",Такси (1998)
+https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSHw0z6WMgWK1c/ZX
+#EXTINF:-1 group-title="4К",Американская история X (1998)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSVuQW70xk7Otj/ZX
+#EXTINF:-1 group-title="4К",Игра (1997)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSYhhWV6watVka/ZX
+#EXTINF:-1 group-title="4К",Адвокат дьявола (1997)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSHZFieZd4XciX/ZX
 #EXTINF:-1 group-title="4К",Схватка (1995)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSrpB_zlaYerV2/ZX
 #EXTINF:-1 group-title="4К",Бэтмен Навсегда (1995)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/5jktNnXoXerIok9s3Fv/ZX
-#EXTINF:-1 group-title="4К",Старик Хоттабыч (1956)
-https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX
-#EXTINF:-1 group-title="4К",Форсаж (2001)
-https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS4YZUhfTLByke/ZX
-#EXTINF:-1 group-title="4К",Один дома (1990)
-https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSNzJREV9d2HV7/ZX
+#EXTINF:-1 group-title="4К",Криминальное чтиво (1994)
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSpWacyXtvoCku/ZX
+#EXTINF:-1 group-title="4К",Бешеные псы (1992)
+https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSlLW9nEMG4mt-/ZX
 #EXTINF:-1 group-title="4К",Один Дома 2: Затерянный В Нью-Йорке (1992)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKScjRc2EFhHPlw/ZX
-#EXTINF:-1 group-title="4К",Крестный отец 1 (1972)
-https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKS49K_h508_7al/ZX
-#EXTINF:-1 group-title="4К",Крестный отец 2 (1974)
-https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSfCp5mQTfuUrX/ZX
+#EXTINF:-1 group-title="4К",На гребне волны (1991)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSOETRlkKMSxLE/ZX
+#EXTINF:-1 group-title="4К",Один дома (1990)
+https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSNzJREV9d2HV7/ZX
 #EXTINF:-1 group-title="4К",Крестный отец 3 (1990)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSExGaWMGn7dyl/ZX
-#EXTINF:-1 group-title="4К",Гарри Поттер и узник Азкабана(2004)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtTbYuJipTKQg1/ZX
+#EXTINF:-1 group-title="4К",Рембо: Первая кровь (1982)
+https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS2Uzj1uUoCv3q/ZX
+#EXTINF:-1 group-title="4К",Аэроплан 2 (1982)
+https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS6ibiMgVhBjEh/ZX
+#EXTINF:-1 group-title="4К",Крестный отец 2 (1974)
+https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSfCp5mQTfuUrX/ZX
+#EXTINF:-1 group-title="4К",Крестный отец 1 (1972)
+https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKS49K_h508_7al/ZX
+#EXTINF:-1 group-title="4К",Космическая одиссея 2001 (1968)
+https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSxFTFgJjywddp/ZX
+#EXTINF:-1 group-title="4К",За пригоршню долларов (1964)
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSGmNib-8VvFmB/ZX
+#EXTINF:-1 group-title="4К",Старик Хоттабыч (1956)
+https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX
+
 #EXTINF:0,Микки 17 (2025)
 #EXTGRP:FHD
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3NtR3G_fdKJG7p8/ZX
