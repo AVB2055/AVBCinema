@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:0,Блэйд (1998)
-#EXTGRP:4К
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
-#EXTINF:0,Американская история X (1998)
-#EXTGRP:4К
-https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSVuQW70xk7Otj/ZX
-#EXTINF:0,Адвокат дьявола (1997)
-#EXTGRP:4К
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSHZFieZd4XciX/ZX
-#EXTINF:0,Аэроплан 2 (1982)
-#EXTGRP:4К
-https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS6ibiMgVhBjEh/ZX
-#EXTINF:0,Старик Хоттабыч (1956)
-#EXTGRP:4К
-https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX
 #EXTINF:0,Дыхание шторма (2025)
 #EXTGRP:FHD
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3Ntit9qqQyCLfz8/ZX
@@ -62,6 +47,9 @@ https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3Ntk0_-bms7XxZO/ZX
 #EXTINF:0,Шрек (2001)
 #EXTGRP:FHD
 https://kinoleha.net/load/chrek?original
+#EXTINF:0,Старик Хоттабыч (1956)
+#EXTGRP:FHD
+https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX
 #EXTINF:0,Муфаса: Король Лев (2024)
 #EXTGRP:HD
 https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/FP7MRNS_MVCGxtxXQ4r/ZX
